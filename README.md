@@ -1,3 +1,3 @@
 # AngularForms
 
-This project demonstrates how to perform Form validaiton in Angular
+This project demonstrates how to perform Form Validation in Angular.
